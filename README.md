@@ -1,2 +1,2 @@
-# Calculadora-de-rea-de-Tri-ngulo
+# Calculadora-de-area-de-Triangulo
 Calculadora de Área de Triângulo
